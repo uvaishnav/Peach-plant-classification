@@ -2,4 +2,4 @@
 
 
 ### to get more explanation about the code, please visit my blog:
-https://github.com/uvaishnav/Peach-plant-classification/tree/main
+https://uvaishnav.hashnode.dev/save-your-peach-crops-from-infection-with-this-simple-tensorflow-cnn-model
